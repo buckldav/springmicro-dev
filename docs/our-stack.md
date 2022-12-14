@@ -8,4 +8,4 @@ permalink: /docs/our-stack/
 
 # Our Stack
 
-![our stack](/assets/images/stack.drawio.svg)
+![our stack](/springmicro-dev/assets/images/stack.drawio.svg)
