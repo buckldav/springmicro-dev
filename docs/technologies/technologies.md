@@ -7,9 +7,3 @@ permalink: /docs/technologies/
 ---
 
 # Technologies
-
-Frontend
-
-- Bridge
-  - Next.js
-  - Storybook
